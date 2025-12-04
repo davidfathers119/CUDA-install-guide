@@ -1,5 +1,6 @@
 # CUDA-install-guide
-Record the process I download the CUDA and the cuBB
+Record the process I download the CUDA
+## cuBB
 ## Low-density parity-check code learning
 ### _I. The theorem of the Low-density parity-check code(LDPC code)._
 
